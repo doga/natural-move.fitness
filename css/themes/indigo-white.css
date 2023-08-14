@@ -12,3 +12,8 @@ main {
 .icons-social a svg path{
 	fill: #FAFAFA;
 }
+
+/* my modif */
+a, a:visited {
+	color: #FAFAFA;
+}
