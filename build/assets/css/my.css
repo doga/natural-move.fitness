@@ -1,3 +1,7 @@
 em, strong {
   font-weight: bold;
 }
+
+img.logo {
+  width: 50%;
+}
